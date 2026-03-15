@@ -6,10 +6,6 @@ Interactive Ecommerce Sales Performance Dashboard built using Microsoft Excel
 
 This project presents an interactive **Ecommerce Sales Performance Dashboard** built using Microsoft Excel. The dashboard analyzes sales performance from **January to April 2024** and provides insights into revenue, product performance, customer location, and payment methods.
 
-## Dashboard Preview
-
-![Dashboard](dashboard-preview.png)
-
 ## Key Metrics
 
 * Total GMV (Gross Merchandise Value)
